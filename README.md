@@ -14,6 +14,7 @@ hudson ( ci ) for docker
 * webapps dir : /www/webapps 
 * env JAVA_OPTS=-server -Xms256m -Xmx1000m -XX:MaxPermSize=512M
 * env HUDSON_HOME=/data/hudson
+* already include git & maven
 
 
 # Run
